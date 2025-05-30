@@ -8,6 +8,11 @@ public class prog4 {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub
+				// TODO Auto-generated method stub
+				// TODO Auto-generated method stub
+				// TODO Auto-generated method stub
+				// TODO Auto-generated method stub
 	}
 
 }
